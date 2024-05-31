@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#!nix-shell -i bash -p qmk
+#!nix-shell -i bash -p qmk jq
 set -eo pipefail
 
 main() {
